@@ -35,7 +35,7 @@
 
 <p align="start"> 
   &emsp; 
-   <img alt="PHP" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
+   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
   &emsp; 
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   &emsp;
