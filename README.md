@@ -41,7 +41,7 @@
   &emsp;
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">
   &emsp;
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91style=plastic&logo=.net&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
    &emsp;
   <img alt="node JS" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
   &emsp;
