@@ -1,5 +1,5 @@
 <h1 align="start">Hi , I'm Muzaffer B. DOĞAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="start">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Teacher;Creator;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 
@@ -128,7 +128,7 @@
 
  ### 👉 Competitive Programming & Problem Solving
  
-<p align="center">
+<p align="start">
   &emsp;
     <img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" />	
   &emsp;
