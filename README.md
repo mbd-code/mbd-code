@@ -35,25 +35,25 @@
 
 <p align="start"> 
   &emsp; 
-   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
   &emsp; 
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
   &emsp;
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">
   &emsp;
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91style=plastic&logo=.net&logoColor=white">
    &emsp;
-  <img alt="node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="node JS" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
   &emsp;
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
   &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
   &emsp;
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white">
    &emsp;
-  <img alt="Symfony" src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
+  <img alt="Symfony" src="https://img.shields.io/badge/connect-%2300843e.svg?style=plastic&logo=symfony&logoColor=white">
    &emsp;
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">
 </p>
 
 ### 👉 Frontend Development
