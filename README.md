@@ -31,7 +31,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Backend Development
 
 <p align="start"> 
   &emsp; 
@@ -57,24 +57,23 @@
 </p>
 
 ### 👉 Frontend Development
-<p align="center"> 
+<p align="start"> 
+ &emsp; 
+   <img alt="HTML 5" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white">
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
+  <img alt="CSS 3" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white">
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
-	 &emsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=blacke">
   &emsp;
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Vue Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+   &emsp;
+  <img alt="React Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   &emsp;
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="Angular Js" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   &emsp;
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   &emsp;
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
  ### 👉 Software & Tools
