@@ -33,7 +33,7 @@
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<p align="start"> 
   &emsp; 
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   &emsp;
