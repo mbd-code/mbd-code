@@ -59,21 +59,21 @@
 ### 👉 Frontend Development
 <p align="start"> 
  &emsp; 
-   <img alt="HTML 5" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white">
+   <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   &emsp; 
   <img alt="CSS 3" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white">
   &emsp;
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=blacke">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   &emsp;
-  <img alt="Vue Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="Vue Js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D">
    &emsp;
-  <img alt="React Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React Js" src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
   &emsp;
-  <img alt="Angular Js" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="Angular Js" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white">
   &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white">
   &emsp;
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white">
 </p>
 
  ### 👉 Software & Tools
