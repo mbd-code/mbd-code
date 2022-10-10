@@ -76,6 +76,22 @@
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white">
 </p>
 
+### 👉 Database Development
+<p align="start"> 
+ &emsp; 
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white">
+  &emsp; 
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
+  &emsp;
+  <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">
+  &emsp;
+  <img alt="Postgre SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white">
+   &emsp;
+  <img alt="SQL Lite" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white">
+  &emsp;
+  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
+
  ### 👉 Software & Tools
  
 <p align="center">
