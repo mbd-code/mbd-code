@@ -59,11 +59,11 @@
 ### 👉 Frontend Development
 <p align="start"> 
  &emsp; 
-   <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
   &emsp; 
   <img alt="CSS 3" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white">
   &emsp;
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
   &emsp;
   <img alt="Vue Js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D">
    &emsp;
