@@ -35,6 +35,8 @@
 
 <p align="start"> 
   &emsp; 
+  <img alt="PHP" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=php&logoColor=white">
+  &emsp; 
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   &emsp;
  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -43,7 +45,7 @@
   &emsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
