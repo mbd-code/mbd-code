@@ -89,7 +89,7 @@
    &emsp;
   <img alt="SQL Lite" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white">
   &emsp;
-  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white">
 </p>
 
  ### 👉 Software & Tools
